@@ -1,5 +1,7 @@
 # Voice-Crowdsourcing
 
+A prototype google home application that can be used to gather data from users (crowdsourcing) using voice input only. It includes 5 types of crowdsourcing tasks to test its performance which are: Sentiment Analysis, Gender Recognition, Language Translation, Emotion Analysis, and Survey. A report reviewing the results of the study and how to design this application is included in the folder.
+
 To Setup:
 
 - go to dialogflow console
