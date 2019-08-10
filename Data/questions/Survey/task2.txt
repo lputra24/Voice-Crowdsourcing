@@ -1,0 +1,1 @@
+from 1 to 5 with 1 being  really easy and 5 being really difficult, can you rate the difficulty of using this device for answering question
